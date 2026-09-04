@@ -136,30 +136,6 @@ NLP-Spam-Detection/
 
 ---
 
-##  How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone <your-github-repository-link>
-```
-
-### 2. Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Python source code
-
-```bash
-python source_code.py
-```
-
-The program preprocesses the SMS messages, trains the models, evaluates their performance, and can predict whether a new message is Spam or Ham.
-
----
-
 ## 📸 Screenshots
 
 Screenshots of the dataset, preprocessing, confusion matrix, model comparison, and final results are available in the `screenshots/` folder.
