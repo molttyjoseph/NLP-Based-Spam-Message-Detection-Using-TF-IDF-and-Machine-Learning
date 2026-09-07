@@ -136,7 +136,7 @@ NLP-Spam-Detection/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Screenshots of the dataset, preprocessing, confusion matrix, model comparison, and final results are available in the `screenshots/` folder.
 
@@ -172,7 +172,7 @@ Using TF-IDF features, both Multinomial Naive Bayes and Logistic Regression achi
 
 ---
 
-## 👨‍💻 Project
+##  Project
 
 **NLP Mini Project – Spam Message Detection**
 
